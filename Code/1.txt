@@ -1,0 +1,31 @@
+Round: 2
+Turn: 7
+ActivePlayer: WHITE
+Board Rotated: false
+Point,1,2,BLACK,-1
+Point,2,2,BLACK,-1
+Point,3,4,BLACK,-1
+Point,4,2,BLACK,-1
+Point,5,2,BLACK,-1
+Point,6,2,BLACK,-1
+Point,7,2,BLACK,-1
+Time,1,1,BLACK,-1
+Time,7,1,BLACK,-1
+HourGlass,2,5,BLACK,-1
+HourGlass,6,1,BLACK,-1
+Plus,3,1,BLACK,-1
+Plus,5,1,BLACK,-1
+Sun,4,1,BLACK,-1
+Point,1,5,WHITE,-1
+Point,3,5,WHITE,-1
+Point,4,5,WHITE,-1
+Point,5,4,WHITE,-1
+Point,6,3,WHITE,-1
+Point,7,5,WHITE,-1
+Time,1,6,WHITE,-1
+Time,7,6,WHITE,-1
+HourGlass,2,6,WHITE,-1
+HourGlass,7,4,WHITE,-1
+Plus,3,6,WHITE,-1
+Plus,5,6,WHITE,-1
+Sun,4,6,WHITE,-1
