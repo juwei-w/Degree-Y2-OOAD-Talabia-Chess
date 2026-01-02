@@ -12,7 +12,7 @@ The project was built to demonstrate advanced **Object-Oriented Analysis and Des
 
 **Contributors:**
 - **Wong Ju Wei** – UI/UX Design, Board Layout & Core Mechanics
-- **Loh Zheng Bin** – Game Logic, Rules & Win Conditions
+- **Ter Zheng Bin** – Game Logic, Rules & Win Conditions
 - **Lim Ye Xin** – Board Mechanics, Move Validation & Save/Load System
 - **Yap Rui Ern** – Game States, Save/Load System & Start Screen
 
