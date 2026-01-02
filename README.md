@@ -120,16 +120,16 @@ The application strictly follows the **Model-View-Controller** pattern:
 ## 📸 Screenshots
 
 **Start Screen**<br>
-<img src="./Screenshots/1.png" alt="Start Screen" width="600">
+<img src="./Screenshots/1.png" alt="Start Screen" width="500">
 
 **Main Menu**<br>
-<img src="./Screenshots/3.png" alt="Main Menu" width="600">
+<img src="./Screenshots/3.png" alt="Main Menu" width="500">
 
 **Gameplay Action**<br>
-<img src="./Screenshots/2.png" alt="Gameplay" width="600">
+<img src="./Screenshots/2.png" alt="Gameplay" width="500">
 
 **End Game**<br>
-<img src="./Screenshots/4.png" alt="Win Screen" width="600">
+<img src="./Screenshots/4.png" alt="Win Screen" width="500">
 
 ---
 
