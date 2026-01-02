@@ -21,7 +21,7 @@ The project was built to demonstrate advanced **Object-Oriented Analysis and Des
 ## 📁 Repository Structure
 
 ```
-Degree-Y2-OOAD-Talabia-Chess/
+Talabia-Chess/
 ├── Code/
 │   ├── Image/              # Assets for chess piece icons
 │   ├── Control.java        # Controller: Game loop and logic updates
@@ -84,8 +84,8 @@ The application strictly follows the **Model-View-Controller** pattern:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/juwei-w/Degree-Y2-OOAD-Talabia-Chess.git
-    cd Degree-Y2-OOAD-Talabia-Chess/Code
+    git clone https://github.com/juwei-w/Talabia-Chess.git
+    cd Talabia-Chess/Code
     ```
 
 2.  **Compile the source code**
@@ -135,8 +135,8 @@ The application strictly follows the **Model-View-Controller** pattern:
 
 ## 🔗 Resources
 
-- **Repository:** [github.com/juwei-w/Degree-Y2-OOAD-Talabia-Chess](https://github.com/juwei-w/Degree-Y2-OOAD-Talabia-Chess)
-- **Issues:** [Report a bug](https://github.com/juwei-w/Degree-Y2-OOAD-Talabia-Chess/issues)
+- **Repository:** [github.com/juwei-w/Talabia-Chess](https://github.com/juwei-w/Talabia-Chess)
+- **Issues:** [Report a bug](https://github.com/juwei-w/Talabia-Chess/issues)
 
 ---
 
