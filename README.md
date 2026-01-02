@@ -119,19 +119,17 @@ The application strictly follows the **Model-View-Controller** pattern:
 
 ## 📸 Screenshots
 
-<details open>
-<summary><strong>View Gameplay Screenshots</strong></summary>
+**Start Screen**
+<img src="./Screenshots/1.png" alt="Start Screen" width="600">
 
 **Main Menu**
-![Main Menu](./Screenshots/3.png)
+<img src="./Screenshots/3.png" alt="Main Menu" width="600">
 
 **Gameplay Action**
-![Gameplay](./Screenshots/2.png)
+<img src="./Screenshots/2.png" alt="Gameplay" width="600">
 
 **End Game**
-![Win Screen](./Screenshots/4.png)
-
-</details>
+<img src="./Screenshots/4.png" alt="Win Screen" width="600">
 
 ---
 
